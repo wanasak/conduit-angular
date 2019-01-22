@@ -13,6 +13,9 @@
     },
     "conduit-e2e": {
       "tags": []
+    },
+    "shared": {
+      "tags": []
     }
   }
 }

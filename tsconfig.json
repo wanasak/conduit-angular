@@ -16,6 +16,9 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@conduit-angular/shared": [
+        "libs/shared/src/index.ts"
+      ]
     }
   },
   "exclude": [
