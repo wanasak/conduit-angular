@@ -18,6 +18,12 @@
     "paths": {
       "@conduit-angular/shared": [
         "libs/shared/src/index.ts"
+      ],
+      "@conduit-angular/api": [
+        "libs/api/src/index.ts"
+      ],
+      "@env/*": [
+        "apps/conduit/src/environments/*"
       ]
     }
   },
