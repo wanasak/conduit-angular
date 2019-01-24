@@ -19,6 +19,9 @@
     },
     "api": {
       "tags": []
+    },
+    "ngrx-error": {
+      "tags": []
     }
   }
 }

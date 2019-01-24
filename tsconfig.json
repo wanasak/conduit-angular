@@ -24,6 +24,9 @@
       ],
       "@env/*": [
         "apps/conduit/src/environments/*"
+      ],
+      "@conduit-angular/ngrx-error": [
+        "libs/ngrx-error/src/index.ts"
       ]
     }
   },
